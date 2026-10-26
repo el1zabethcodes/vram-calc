@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-10-26T00:18:34.946Z",
+  "sessionId": "session_147b5fed8fc6614f934a6ec1dbf5f4a6",
+  "event": "PostToolUse",
+  "toolName": "Edit",
+  "file": "src/vram_calc/cli.py",
+  "outcome": "clear",
+  "coverage": "complete",
+  "findingCount": 0,
+  "durationMs": 20,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}
